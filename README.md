@@ -35,7 +35,3 @@ This is a Java EE (JEE) application for managing bank clients, credits (loans), 
 
 - Access the web interface or REST endpoints as documented.
 - Add clients, create and approve credits, record repayments.
-
-## License
-
-Educational/Academic use.
